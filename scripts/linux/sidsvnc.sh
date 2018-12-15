@@ -4,6 +4,7 @@
 #
 # NOTE: You will need tightvnc or equivalent package to be pre-installed
 #       for this to work. On Debian use (apt-get install tightvnc).
+# NOTE: Also, this script is meant to be run from within the server.
 # 
 
 # define color codes (not sure)
